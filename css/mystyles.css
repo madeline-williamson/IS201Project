@@ -1,0 +1,41 @@
+ul{
+    font-size: 15px;
+}
+
+#top {text-decoration: underline;}
+
+
+
+.youtube {
+    width: 450px;
+    height: 900px;
+    justify-content: center;
+}
+
+
+li{
+    font-size: medium;
+    list-style-position: outside;
+}
+
+.emphasizedText{
+    font-style: italic;
+    color:rgb(23, 10, 207)
+}
+
+body{
+    background-color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 30px;
+    text-align:left
+}
+ol{
+   list-style-position: inside; 
+}
+
+img{
+    display: block;
+    margin-right: auto;
+}
